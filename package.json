@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "framer-motion": "^10.16.4",
-    "react": "^22.2.0",
+    "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.18.0",
     "sass": "^1.69.5"
